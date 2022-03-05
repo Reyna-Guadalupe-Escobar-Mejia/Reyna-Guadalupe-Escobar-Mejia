@@ -1,16 +1,16 @@
-### Hi there 👋
+# Reyna Guadalupe Escobar Mejía
+<h1 style="font-size: 2.5rem; font-weight: bold; text-align: center;" align="center"> Hello everyone (>///<) </h1>
 
-<!--
-**Reyna-Guadalupe-Escobar-Mejia/Reyna-Guadalupe-Escobar-Mejia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning python and HTML
+  
+  hobbies:
+- Read
+- Watch Anime
+- Draw
+  
+# Social Networks:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- `Facebook`: Deshabilitado
+- `Email`: <a href="reynaspartan@gmail.com">Gmail</a>
