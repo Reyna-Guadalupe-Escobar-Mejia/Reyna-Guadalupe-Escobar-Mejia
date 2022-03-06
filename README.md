@@ -13,4 +13,4 @@
 
 
 - `Facebook`: Deshabilitado
-- `Email`: <a href="reynaspartan@gmail.com">Gmail</a>
+- `Email`: <a href="mailto:reynaspartan@gmail.com">reynaspartan@gmail.com</a>
