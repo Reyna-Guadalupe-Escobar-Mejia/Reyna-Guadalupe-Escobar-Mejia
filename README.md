@@ -12,5 +12,5 @@
 # Social Networks:
 
 
-- `Facebook`: Deshabilitado
+- `Facebook`: <a href="mailto:https://www.facebook.com/lucianicol.gimenescastillo">Reyna Escobar</a>
 - `Email`: <a href="mailto:reynaspartan@gmail.com">reynaspartan@gmail.com</a>
