@@ -1,12 +1,12 @@
 # Reyna Guadalupe Escobar Mejía
-<h1 style="font-size: 2.5rem; font-weight: bold; text-align: center;" align="center"> Hello everyone (>///<) </h1>
+<h1 style="font-size: 2.5rem; font-weight: bold; text-align: center;" align="center"> Hello everyone </h1>
 
 
-- 🌱 I’m currently learning python and HTML
+- 🌱 I’m currently learning python, HTML and CSS
   
   hobbies:
 - Read
-- Watch Anime
+- play chess
 - Draw
   
 # Social Networks:
