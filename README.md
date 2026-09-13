@@ -7,5 +7,5 @@
   
 # Social Networks:
 
-- `Email`: <a href="mailto:reynaguadalupeescobarmejia@gmail.com"></a>
-- `Linkedin`: <a href="mailto:linkedin.com/in/reyna-guadalupe-escobar-mejia"></a>
+- `Email`: <a href="mailto:reynaguadalupeescobarmejia@gmail.com">reynaguadalupeescobarmejia@gmail.com</a>
+- `Linkedin`: <a href="mailto:linkedin.com/in/reyna-guadalupe-escobar-mejia">linkedin.com/in/reyna-guadalupe-escobar-mejia</a>
