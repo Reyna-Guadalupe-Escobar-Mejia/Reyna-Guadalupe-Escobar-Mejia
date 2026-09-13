@@ -7,4 +7,4 @@
   
 # Social Networks:
 
-- `Email`: <a href="mailto:reynaspartan@gmail.com">reynaspartan@gmail.com</a>
+- `Email`: <a href="mailto:reynaspartan@gmail.com">reynaguadalupeescobarmejia@gmail.com</a>
